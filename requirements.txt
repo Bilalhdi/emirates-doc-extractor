@@ -1,0 +1,29 @@
+# API
+fastapi
+uvicorn[standard]
+
+# Data validation
+pydantic
+
+# ML / CV
+torch
+ultralytics
+opencv-python-headless
+numpy
+easyocr
+
+# Imaging
+pillow
+pillow-heif
+
+# PDF handling
+pymupdf
+
+# Google Gemini API
+google-generativeai
+
+# Together AI (you imported `together`)
+together
+
+# Env variables
+python-dotenv

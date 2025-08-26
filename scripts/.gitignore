@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.*
+
+# Training artifacts
+runs/
+models/*.pt
+cropped_images/
+oriented_images/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
