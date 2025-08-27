@@ -70,10 +70,6 @@ google-generativeai
    ```
 2. Code already loads env (via python-dotenv)
 
-###API Usage
 
-##Start the server
-```python
-  
 
 
